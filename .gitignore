@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+mlruns/
+mlartifacts/
+data/raw/
+data/processed/
+*.pt
+*.bin
+.env
+.ipynb_checkpoints/
